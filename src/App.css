@@ -1,6 +1,6 @@
 /* App.css */
 .typewriter-effect {
-    color: whitesmoke; /* Change the color as desired */
+    color: white; /* Change the color as desired */
     animation: typing 3s steps(30) infinite;
   }
   
